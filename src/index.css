@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --color-vintage-bg: #fcfaf2;
+  --color-vintage-card: #ffffff;
+  --color-vintage-charcoal: #1a1a1a;
+  --color-vintage-sand: #e0d8c3;
+}
+
+body {
+  background-color: #fcfaf2;
+  color: #1a1a1a;
+  font-family: 'Courier New', Courier, monospace;
+}
