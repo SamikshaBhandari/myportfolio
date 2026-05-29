@@ -27,7 +27,7 @@ export const portfolioData = {
             title: "Hariyali Ghar (Nursery E-commerce)",
             category: "E-Commerce System",
             description: "A custom single-vendor B2C business logic solution built for plant distribution. Optimizes order checkouts, automated digital catalog components, and full shopping state configurations via the MERN ecosystem.",
-            tech: ["React.js", "Node.js", "Express.js", "MongoDB"],
+            tech: ["React.js", "Node.js", "Express.js", "MYSQL"],
             github: "https://github.com/SamikshaBhandari/Hariyali-ghar"
         },
         {
