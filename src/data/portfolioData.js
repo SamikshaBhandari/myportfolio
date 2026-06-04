@@ -3,6 +3,7 @@ export const portfolioData = {
         name: "Samiksha Bhandari",
         title: "BCA Student & Full-Stack Web Developer",
         location: "Sunsari, Nepal",
+        avatarUrl: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=600&auto=format&fit=crop",
         leadership: "Treasurer — Code for Change Koshi (2025-2026)",
         bio: "Building functional web architectures mapping PHP, MySQL, and modern MERN layers. Balancing deep software system engineering with community tech operations to create highly scalable web infrastructure solutions.",
         githubUrl: "https://github.com/SamikshaBhandari",
@@ -27,16 +28,8 @@ export const portfolioData = {
             title: "Hariyali Ghar (Nursery E-commerce)",
             category: "E-Commerce System",
             description: "A custom single-vendor B2C business logic solution built for plant distribution. Optimizes order checkouts, automated digital catalog components, and full shopping state configurations via the MERN ecosystem.",
-            tech: ["React.js", "Node.js", "Express.js", "MYSQL"],
+            tech: ["React.js", "Node.js", "Express.js", "MySQL"],
             github: "https://github.com/SamikshaBhandari/Hariyali-ghar"
-        },
-        {
-            id: "retro-techfest",
-            title: "Tech Fest Gaming Hub",
-            category: "Web App / Simulation",
-            description: "An isolated client-side gaming cluster environment showcasing SpaceWaves arcade controls and classic computational game matrices built for local university tech exhibitions.",
-            tech: ["React.js", "Context API", "CSS Variables"],
-            github: "https://github.com/SamikshaBhandari/BrainByte"
         }
     ]
 };
