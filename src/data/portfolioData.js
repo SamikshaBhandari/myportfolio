@@ -1,9 +1,10 @@
+import SamikshaPic from '../assets/samiksha.jpeg';
 export const portfolioData = {
     profile: {
         name: "Samiksha Bhandari",
+        avatarUrl: SamikshaPic,
         title: "BCA Student & Full-Stack Web Developer",
         location: "Sunsari, Nepal",
-        avatarUrl: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=600&auto=format&fit=crop",
         leadership: "Treasurer — Code for Change Koshi (2025-2026)",
         bio: "Building functional web architectures mapping PHP, MySQL, and modern MERN layers. Balancing deep software system engineering with community tech operations to create highly scalable web infrastructure solutions.",
         githubUrl: "https://github.com/SamikshaBhandari",
