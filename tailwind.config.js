@@ -1,6 +1,5 @@
 /** @type {import('tailwindcss').Config} */
 export default {
-    // १. यसले रिएक्टका कुन-कुन फाइलमा स्टाइल लागू गर्ने भनेर खोज्छ
     content: [
         "./index.html",
         "./src/**/*.{js,ts,jsx,tsx}",
