@@ -11,8 +11,8 @@ export const portfolioData = {
         linkedinUrl: "https://www.linkedin.com/in/samiksha-bhandari-8079b5346/"
     },
     skills: {
-        languages: ["PHP", "C#", "JavaScript", "C/C++", "SQL"],
-        frameworks: ["React.js", "Node.js", "Express.js", "Tailwind CSS"],
+        languages: ["PHP", "HTML", "CSS", "C#", "JavaScript", "C/C++", "SQL"],
+        frameworks: ["React.js", "Node.js", "Express.js", "Next.js", "Tailwind CSS"],
         tools: ["Git & GitHub", "MySQL", "MongoDB", "Ubuntu Linux"]
     },
     projects: [
