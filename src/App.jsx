@@ -41,7 +41,6 @@ function App() {
           </div>
           <span className="text-xs font-semibold tracking-wide text-slate-200 group-hover:text-white transition-colors">{profile.name}</span>
         </div>
-
         <div className="flex items-center flex-wrap justify-center gap-1 bg-slate-950/80 p-1 rounded-xl border border-slate-800/60 shadow-inner">
           {[
             { id: 'home', label: 'Home' },
