@@ -36,7 +36,7 @@ export const portfolioData = {
         },
         {
             id: "hariyali-ghar",
-            title: "Hariyali Ghar (Nursery E-commerce)",
+            title: "Hariyali Ghar (Plant and Nursery E-commerce)",
             category: "E-Commerce System",
             image: HariyaliPic,
             description: "A custom single-vendor B2C business logic solution built for plant distribution. Optimizes order checkouts, automated digital catalog components, and full shopping state configurations via the MERN ecosystem.",
