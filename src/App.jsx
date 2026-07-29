@@ -61,7 +61,6 @@ function App() {
       </nav>
 
       <main className="max-w-5xl mx-auto px-4 sm:px-6 pt-8 space-y-10 relative z-10">
-
         <section id="home" className="scroll-mt-20 bg-slate-900/10 rounded-2xl border border-slate-900 p-6 sm:p-8 backdrop-blur-md shadow-xl">
           <div className="flex flex-col lg:flex-row items-center gap-8 lg:gap-10">
 
